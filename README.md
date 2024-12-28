@@ -1,4 +1,4 @@
-# Lunaris
+# Lunaris Linux
 This distribution is made possible by the amazing distributions and Arch Linux specifically and Linus Torvalds himself for making Linux what it is today, this wouldn’t be possible without the amazing community and their dedication to open-source innovation and obviously their dedication for making things free.
 
 Lunaris, is a Linux distribution, which 'efficiently' packs together all the features from other distributions, like Arch's flexibility, NixOS's declaration of configurations, Debian's reliability.
